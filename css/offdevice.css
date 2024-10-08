@@ -4571,7 +4571,7 @@ div#activity-feed-tutorial.no-content p.tleft {
   background-color: #f9f9f9;
 }
 #identified-user-banner a:before {
-  background-image: url('../Friiverse - Webpage Home_files/zac_verified-user');
+  background-image: url('https://santoshiwanttodev.github.io/content/logo/zac_verified-user');
   background-size: 50px 50px;
   content: '';
   height: 50px;
