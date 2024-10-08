@@ -2,7 +2,7 @@
 @font-face {
   font-family: 'MiiverseSymbols';
   src: url('MiiverseSymbols-Regular.eot');
-  src: url('MiiverseSymbols-Regular.eot') format('embedded-opentype'), url('MiiverseSymbols-Regular.woff') format('woff'), url('https://santoshiwanttodev.github.io/content/font/MiiverseSymbols-Regular.ttf') format('truetype');
+  src: url('MiiverseSymbols-Regular.eot') format('embedded-opentype'), url('https://santoshiwanttodev.github.io/content/font/MiiverseSymbols-Regular.woff') format('woff'), url('https://santoshiwanttodev.github.io/content/font/MiiverseSymbols-Regular.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
