@@ -376,7 +376,7 @@ body:not(.is-autopagerized) .adx-link-container {
 .album-list.empty > div p,
 .list > .no-content > div p,
 .no-content > div p {
-  padding: 0 50px;
+  padding: 0;
   display: block;
 }
 .post-list.empty.no-content-favorites,
