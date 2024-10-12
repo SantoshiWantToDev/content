@@ -369,7 +369,7 @@ body:not(.is-autopagerized) .adx-link-container {
   display: inline;
   zoom: 1;
   vertical-align: middle;
-  padding: 0 50px;
+  padding: 70px;
   text-align: center;
 }
 .post-list.empty > div p,
