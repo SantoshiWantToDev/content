@@ -2255,7 +2255,7 @@ select {
   font-size: 16px;
   border: 1px solid #bbb;
 }
-form.search {
+form.extra-content {
     padding-top: 15px;
     width: 320px;
     display: flex;
