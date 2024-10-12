@@ -2962,9 +2962,9 @@ input.file-button {
   word-wrap: normal;
   height: 34px;
   padding: 0 10px;
-  border-top: 1px solid #81e52e;
-  border-bottom: 1px solid #3caa00;
-  background: #5ac800;
+  border-top: 1px solid #FF494E;
+  border-bottom: 1px solid #FF494E;
+  background: #FF494E;
   color: #fff;
   font-size: 16px;
   font-weight: bold;
