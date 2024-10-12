@@ -1,3 +1,5 @@
-# santoshiwantodev.github.io
+# Friiverse[santoshiwantodev.github.io]
 
-Miiverse recreation (test, named Friiverse!)
+My Miiverse recreation, Friiverse !
+
+Maked by heart :)
