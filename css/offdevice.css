@@ -366,10 +366,10 @@ body:not(.is-autopagerized) .adx-link-container {
 .list > .no-content > p,
 .no-content > p {
   display: table-cell;
-  *display: inline;
-  *zoom: 1;
+  display: inline;
+  zoom: 1;
   vertical-align: middle;
-  padding: 0 30px;
+  padding: 0 50px;
   text-align: center;
 }
 .post-list.empty > div p,
