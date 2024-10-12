@@ -1,4 +1,4 @@
-# Friiverse[santoshiwantodev.github.io]
+# [Friiverse]santoshiwantodev.github.io
 
 My Miiverse recreation, Friiverse !
 
