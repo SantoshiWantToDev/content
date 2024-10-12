@@ -1,5 +1,5 @@
 # Friiverse
 
-My Miiverse recreation, Friiverse !
+My Miiverse recreation, Friiverse!
 
-Maked by heart :)
+Created by heart :)
