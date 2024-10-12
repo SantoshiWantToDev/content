@@ -2255,12 +2255,8 @@ select {
   font-size: 16px;
   border: 1px solid #bbb;
 }
-form.extra-content {
-    padding-top: 15px;
-    width: 320px;
-    display: flex;
-    flex-direction: column;
-}
+form.search {
+
 form.search input[type="text"] {
   -webkit-appearance: none;
   -moz-appearance: none;
