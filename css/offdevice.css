@@ -2288,8 +2288,8 @@ form.search input[type="text"] {
   margin: 0;
   vertical-align: middle;
   display: inline-block;
-  *display: inline;
-  *zoom: 1;
+  display: inline;
+  zoom: 1;
 }
 form.search input[type="text"]:focus {
   outline: none;
