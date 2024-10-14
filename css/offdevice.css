@@ -3834,7 +3834,7 @@ input.file-button {
 }
 .guest #about img {
   width: 55%;
-  margin-top: 20px;
+  margin-top: auto;
   float: right;
 }
 .guest #about-inner {
