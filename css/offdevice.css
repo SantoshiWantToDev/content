@@ -2256,12 +2256,21 @@ select {
   border: 1px solid #bbb;
 }
 form.search {
-    border: 3px solid;
-    border-radius: 2px;
-    width: 314px;
-    max-width: 314px;
-    display: flex;
-    justify-content: space-between;
+  margin: 0 0 15px;
+  text-align: left;
+  background: #fff;
+  border: 3px solid #e0e0e0;
+  width: 100%;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+  border-radius: 5px;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  -o-box-sizing: border-box;
+  box-sizing: border-box;
 }
 form.search input[type="text"] {
   -webkit-appearance: none;
@@ -2279,8 +2288,8 @@ form.search input[type="text"] {
   margin: 0;
   vertical-align: middle;
   display: inline-block;
-  display: inline;
-  zoom: 1;
+  *display: inline;
+  *zoom: 1;
 }
 form.search input[type="text"]:focus {
   outline: none;
