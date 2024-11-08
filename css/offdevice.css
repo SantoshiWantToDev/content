@@ -4552,8 +4552,8 @@ div#activity-feed-tutorial.no-content p.tleft {
   background: #e6e6e6;
 }
 #identified-user-banner {
-  margin: 15px 15px 20px;
-  background: url("/web/20141128214153im_/https://d13ph7xrk1ee39.cloudfront.net/img/button-bg.gif?uiyI5SQIILyWljThiov-gw") repeat-x 0 bottom #ffffff;
+  margin: 15px 1px 20px;
+  background: url("https://santoshiwanttodev.github.io/content.img/santoshi_verified-user.png") repeat-x 0 bottom #ffffff;
   background-color: #ffffff;
   background: -webkit-gradient(linear, left top, left bottom, from(#ffffff), to(#eeeeee), color-stop(0.5, #ffffff));
   background: -webkit-linear-gradient(top, #ffffff 0%, #ffffff 50%, #eeeeee 100%);
