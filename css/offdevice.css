@@ -4552,6 +4552,22 @@ div#activity-feed-tutorial.no-content p.tleft {
   background: #e6e6e6;
 }
 #identified-user-banner {
+  margin: 15px 15px 20px;
+  background: url("/web/20141128214153im_/https://d13ph7xrk1ee39.cloudfront.net/img/button-bg.gif?uiyI5SQIILyWljThiov-gw") repeat-x 0 bottom #ffffff;
+  background-color: #ffffff;
+  background: -webkit-gradient(linear, left top, left bottom, from(#ffffff), to(#eeeeee), color-stop(0.5, #ffffff));
+  background: -webkit-linear-gradient(top, #ffffff 0%, #ffffff 50%, #eeeeee 100%);
+  background: -moz-linear-gradient(top, #ffffff 0%, #ffffff 50%, #eeeeee 100%);
+  background: -ms-linear-gradient(top, #ffffff 0%, #ffffff 50%, #eeeeee 100%);
+  background: -o-linear-gradient(top, #ffffff 0%, #ffffff 50%, #eeeeee 100%);
+  background: linear-gradient(top, #ffffff 0%, #ffffff 50%, #eeeeee 100%);
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+  border-radius: 5px;
+}
+#identified-user-banner a {
   display: block;
   border: 1px solid #dddddd;
   border-bottom: 1px solid #d0d0d0;
@@ -4561,11 +4577,11 @@ div#activity-feed-tutorial.no-content p.tleft {
   -o-border-radius: 5px;
   border-radius: 5px;
 }
-#identified-user-banner :hover {
+#identified-user-banner a:hover {
   background-color: #f9f9f9;
 }
 #identified-user-banner a:before {
-  background: url('https://santoshiwanttodev.github.io/img/santoshi-verified-user.png');
+  background: url('https://santoshiwanttodev.github.io/content/img/santoshi_verified-user.png');
   background-size: 50px 50px;
   content: '';
   height: 50px;
