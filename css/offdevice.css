@@ -4565,8 +4565,8 @@ div#activity-feed-tutorial.no-content p.tleft {
   background-color: #f9f9f9;
 }
 #identified-user-banner a:before {
-  background: url('/web/20141128214153im_/https://d13ph7xrk1ee39.cloudfront.net/img/identified-user-banner.png?SAAS-ZiORSYlvLP9Cr1cnA');
-  background-size: 150px 50px;
+  background: url('https://santoshiwanttodev.github.io/img/santoshi-verified-user.png');
+  background-size: 50px 50px;
   content: '';
   height: 50px;
   float: left;
