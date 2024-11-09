@@ -156,7 +156,7 @@ body {
   min-width: 320px;
   margin: auto 0;
   text-align: left;
-  background-color: #f4f4f4;
+  background-color: #FF999F;
   background-image: url('https://santoshiwanttodev.github.io/content/img/background.png');
   background-attachment: fixed;
 }
@@ -4606,7 +4606,7 @@ div#activity-feed-tutorial.no-content p.tleft {
   font-size: 16px;
   font-weight: bold;
   display: block;
-  color: #5ac800;
+  color: #FF494E;
   padding: 12px 5px 4px 68px;
   line-height: 1.3em;
 }
