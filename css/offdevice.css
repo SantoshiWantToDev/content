@@ -474,11 +474,11 @@ body:not(.is-autopagerized) .adx-link-container {
   background-color: #61d700;
 }
 #cookie-policy-notice .cookie-setting {
-  background-color: #FF494E;
+  background-color: #FF0004;
   max-width: 200px;
 }
 #cookie-policy-notice .cookie-setting:hover {
-  background-color: #969696;
+  background-color: #FF6D6D;
 }
 #cookie-policy-notice .cookie-policy-notice {
   background-color: #5ac800;
