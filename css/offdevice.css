@@ -2259,21 +2259,8 @@ select {
   border: 1px solid #bbb;
 }
 form.search {
-  margin: 0 0 15px;
-  text-align: left;
-  background: #fff;
-  border: 3px solid #e0e0e0;
-  width: 100%;
-  -webkit-border-radius: 5px;
-  -moz-border-radius: 5px;
-  -ms-border-radius: 5px;
-  -o-border-radius: 5px;
-  border-radius: 5px;
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  -ms-box-sizing: border-box;
-  -o-box-sizing: border-box;
-  box-sizing: border-box;
+  margin: 0 0 25px;
+  text-align: center;
 }
 form.search input[type="text"] {
   -webkit-appearance: none;
@@ -2281,33 +2268,36 @@ form.search input[type="text"] {
   -ms-appearance: none;
   -o-appearance: none;
   appearance: none;
+  background-color: #eaeaea;
   box-shadow: none;
   border: none;
   font-size: 16px;
-  width: 86%;
   height: 32px;
-  padding: 0 0 0 2%;
-  line-height: 32px;
   margin: 0;
+  padding: 0 5px 0 7px;
   vertical-align: middle;
+  width: 83%;
   display: inline-block;
   *display: inline;
   *zoom: 1;
+  -webkit-border-radius: 5px 0 0 5px;
+  -moz-border-radius: 5px 0 0 5px;
+  -ms-border-radius: 5px 0 0 5px;
+  -o-border-radius: 5px 0 0 5px;
+  border-radius: 5px 0 0 5px;
 }
 form.search input[type="text"]:focus {
   outline: none;
-}
-form.search input[type="submit"] {
   -webkit-appearance: none;
   -moz-appearance: none;
   -ms-appearance: none;
   -o-appearance: none;
   appearance: none;
-  background: #fff;
+  background-color: #eaeaea;
   background-image: none;
   border: none;
   color: #646464;
-  font-family: 'MiiverseSymbols', sans-serif !important;
+  font-family: 'MiiverseSymbols', sans-serif;
   font-size: 16px;
   font-weight: normal!important;
   height: 32px;
@@ -2315,11 +2305,18 @@ form.search input[type="submit"] {
   padding: 0;
   text-align: center;
   vertical-align: middle;
-  width: 12%;
-  float: right;
+  width: 9%;
   display: inline-block;
   *display: inline;
   *zoom: 1;
+  -webkit-border-radius: 0 5px 5px 0;
+  -moz-border-radius: 0 5px 5px 0;
+  -ms-border-radius: 0 5px 5px 0;
+  -o-border-radius: 0 5px 5px 0;
+  border-radius: 0 5px 5px 0;
+}
+form.search input[type="submit"]:hover {
+  background: #f9f9f9;
 }
 #post-form {
   margin: 15px;
