@@ -2288,6 +2288,8 @@ form.search input[type="text"] {
 }
 form.search input[type="text"]:focus {
   outline: none;
+}
+form.search input[type="submit"] {
   -webkit-appearance: none;
   -moz-appearance: none;
   -ms-appearance: none;
