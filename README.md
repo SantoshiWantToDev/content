@@ -12,5 +12,5 @@ Friiverse is a custom service (it's a recreation of Miiverse), in developpement.
 
 Contact me on Discord or per mail is you want to contribute this project !
 
-Mail : leo.collery@gmail.com 
+Mail : leo.collery@gmail.com
 Discord : sant0shii
