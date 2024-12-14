@@ -4,7 +4,7 @@ Friiverse is a custom service (it's a recreation of Miiverse), in developpement.
 
 # In what platforms Friiverse is finished ?
 
-- [x] Browser (function, but somes things are not finished.)
+- [ ] Browser (localhosted for the moment)
 - [ ] 3DS (not developped for the moment)
 - [ ] Wii U (not developped for the moment)
 
